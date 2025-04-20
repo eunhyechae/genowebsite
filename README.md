@@ -18,6 +18,8 @@ You can try the **Learn with Geno** webpage by visiting the Hugging Face Space l
 
 https://huggingface.co/spaces/lchae/learnwithgeno
 
+Github link: https://github.com/eunhyechae/learnwithgeno/tree/main 
+
 ---
 
 
